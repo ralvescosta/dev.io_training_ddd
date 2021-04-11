@@ -1,9 +1,0 @@
-/home/ralvescosta/Desktop/Final/src/NerdStore.Core/bin/Debug/netcoreapp2.2/NerdStore.Core.deps.json
-/home/ralvescosta/Desktop/Final/src/NerdStore.Core/bin/Debug/netcoreapp2.2/NerdStore.Core.dll
-/home/ralvescosta/Desktop/Final/src/NerdStore.Core/bin/Debug/netcoreapp2.2/NerdStore.Core.pdb
-/home/ralvescosta/Desktop/Final/src/NerdStore.Core/obj/Debug/netcoreapp2.2/NerdStore.Core.csprojAssemblyReference.cache
-/home/ralvescosta/Desktop/Final/src/NerdStore.Core/obj/Debug/netcoreapp2.2/NerdStore.Core.AssemblyInfoInputs.cache
-/home/ralvescosta/Desktop/Final/src/NerdStore.Core/obj/Debug/netcoreapp2.2/NerdStore.Core.AssemblyInfo.cs
-/home/ralvescosta/Desktop/Final/src/NerdStore.Core/obj/Debug/netcoreapp2.2/NerdStore.Core.csproj.CoreCompileInputs.cache
-/home/ralvescosta/Desktop/Final/src/NerdStore.Core/obj/Debug/netcoreapp2.2/NerdStore.Core.dll
-/home/ralvescosta/Desktop/Final/src/NerdStore.Core/obj/Debug/netcoreapp2.2/NerdStore.Core.pdb
