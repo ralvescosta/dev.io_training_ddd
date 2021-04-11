@@ -1,0 +1,208 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/ralvescosta/Desktop/Final/tests/NerdStore.Catalogo.Domain.Tests/NerdStore.Catalogo.Domain.Tests.csproj": {}
+  },
+  "projects": {
+    "/home/ralvescosta/Desktop/Final/src/NerdStore.Catalogo.Domain/NerdStore.Catalogo.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ralvescosta/Desktop/Final/src/NerdStore.Catalogo.Domain/NerdStore.Catalogo.Domain.csproj",
+        "projectName": "NerdStore.Catalogo.Domain",
+        "projectPath": "/home/ralvescosta/Desktop/Final/src/NerdStore.Catalogo.Domain/NerdStore.Catalogo.Domain.csproj",
+        "packagesPath": "/home/ralvescosta/.nuget/packages/",
+        "outputPath": "/home/ralvescosta/Desktop/Final/src/NerdStore.Catalogo.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ralvescosta/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {
+              "/home/ralvescosta/Desktop/Final/src/NerdStore.Core/NerdStore.Core.csproj": {
+                "projectPath": "/home/ralvescosta/Desktop/Final/src/NerdStore.Core/NerdStore.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "mediatr": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ralvescosta/Desktop/Final/src/NerdStore.Core/NerdStore.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ralvescosta/Desktop/Final/src/NerdStore.Core/NerdStore.Core.csproj",
+        "projectName": "NerdStore.Core",
+        "projectPath": "/home/ralvescosta/Desktop/Final/src/NerdStore.Core/NerdStore.Core.csproj",
+        "packagesPath": "/home/ralvescosta/.nuget/packages/",
+        "outputPath": "/home/ralvescosta/Desktop/Final/src/NerdStore.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ralvescosta/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[8.4.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "mediatr": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ralvescosta/Desktop/Final/tests/NerdStore.Catalogo.Domain.Tests/NerdStore.Catalogo.Domain.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ralvescosta/Desktop/Final/tests/NerdStore.Catalogo.Domain.Tests/NerdStore.Catalogo.Domain.Tests.csproj",
+        "projectName": "NerdStore.Catalogo.Domain.Tests",
+        "projectPath": "/home/ralvescosta/Desktop/Final/tests/NerdStore.Catalogo.Domain.Tests/NerdStore.Catalogo.Domain.Tests.csproj",
+        "packagesPath": "/home/ralvescosta/.nuget/packages/",
+        "outputPath": "/home/ralvescosta/Desktop/Final/tests/NerdStore.Catalogo.Domain.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ralvescosta/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {
+              "/home/ralvescosta/Desktop/Final/src/NerdStore.Catalogo.Domain/NerdStore.Catalogo.Domain.csproj": {
+                "projectPath": "/home/ralvescosta/Desktop/Final/src/NerdStore.Catalogo.Domain/NerdStore.Catalogo.Domain.csproj"
+              },
+              "/home/ralvescosta/Desktop/Final/src/NerdStore.Core/NerdStore.Core.csproj": {
+                "projectPath": "/home/ralvescosta/Desktop/Final/src/NerdStore.Core/NerdStore.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

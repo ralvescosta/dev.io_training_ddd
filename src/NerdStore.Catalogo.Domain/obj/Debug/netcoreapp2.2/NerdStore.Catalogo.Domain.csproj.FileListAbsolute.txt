@@ -1,0 +1,12 @@
+/home/ralvescosta/Desktop/Final/src/NerdStore.Catalogo.Domain/bin/Debug/netcoreapp2.2/NerdStore.Catalogo.Domain.deps.json
+/home/ralvescosta/Desktop/Final/src/NerdStore.Catalogo.Domain/bin/Debug/netcoreapp2.2/NerdStore.Catalogo.Domain.dll
+/home/ralvescosta/Desktop/Final/src/NerdStore.Catalogo.Domain/bin/Debug/netcoreapp2.2/NerdStore.Catalogo.Domain.pdb
+/home/ralvescosta/Desktop/Final/src/NerdStore.Catalogo.Domain/bin/Debug/netcoreapp2.2/NerdStore.Core.dll
+/home/ralvescosta/Desktop/Final/src/NerdStore.Catalogo.Domain/bin/Debug/netcoreapp2.2/NerdStore.Core.pdb
+/home/ralvescosta/Desktop/Final/src/NerdStore.Catalogo.Domain/obj/Debug/netcoreapp2.2/NerdStore.Catalogo.Domain.csprojAssemblyReference.cache
+/home/ralvescosta/Desktop/Final/src/NerdStore.Catalogo.Domain/obj/Debug/netcoreapp2.2/NerdStore.Catalogo.Domain.AssemblyInfoInputs.cache
+/home/ralvescosta/Desktop/Final/src/NerdStore.Catalogo.Domain/obj/Debug/netcoreapp2.2/NerdStore.Catalogo.Domain.AssemblyInfo.cs
+/home/ralvescosta/Desktop/Final/src/NerdStore.Catalogo.Domain/obj/Debug/netcoreapp2.2/NerdStore.Catalogo.Domain.csproj.CoreCompileInputs.cache
+/home/ralvescosta/Desktop/Final/src/NerdStore.Catalogo.Domain/obj/Debug/netcoreapp2.2/NerdStore.Catalogo.Domain.csproj.CopyComplete
+/home/ralvescosta/Desktop/Final/src/NerdStore.Catalogo.Domain/obj/Debug/netcoreapp2.2/NerdStore.Catalogo.Domain.dll
+/home/ralvescosta/Desktop/Final/src/NerdStore.Catalogo.Domain/obj/Debug/netcoreapp2.2/NerdStore.Catalogo.Domain.pdb
